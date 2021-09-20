@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bluewhale/precache-manifest.3fc3365c68a9d8e3032e78ea7d52ed0b.js"
+  "/bluewhale/precache-manifest.7bb261d1e63fe0a2a3328ca1153f6eb5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ygsd-vue"});
