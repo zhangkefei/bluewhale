@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bluewhale/precache-manifest.7bb261d1e63fe0a2a3328ca1153f6eb5.js"
+  "/bluewhale/precache-manifest.6cfa6a9f3b074a2d834dce7712820ee5.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "ygsd-vue"});
+workbox.core.setCacheNameDetails({prefix: "bluewhale"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
