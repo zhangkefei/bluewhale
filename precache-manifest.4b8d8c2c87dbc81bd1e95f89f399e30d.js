@@ -4,12 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bluewhale/css/chunk-2d48966c.b641f57d.css"
   },
   {
-    "revision": "34c1ff1f9770da10f190",
-    "url": "/bluewhale/css/chunk-8dec1d48.1e736e88.css"
-  },
-  {
     "revision": "82a0b296c6a38bc68d83",
     "url": "/bluewhale/css/chunk-c66dfe38.a24c9cb0.css"
+  },
+  {
+    "revision": "9699d6a4c35a71b87404",
+    "url": "/bluewhale/css/chunk-eed9da86.6db63602.css"
   },
   {
     "revision": "0abe04d7827e078ebbee",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bluewhale/img/world.svg"
   },
   {
-    "revision": "2b4f9e97c9019afa32caf8cabd125816",
+    "revision": "8fd3ee48152b44031c68353f30251eb8",
     "url": "/bluewhale/index.html"
   },
   {
-    "revision": "8941d33a03c258ba0c1e",
-    "url": "/bluewhale/js/app.587b97a4.js"
+    "revision": "29b356b96ab6e80cb976",
+    "url": "/bluewhale/js/app.58ec0b68.js"
   },
   {
     "revision": "2985c0a58e4d0c3b7430",
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bluewhale/js/chunk-2d48966c.c0408056.js"
   },
   {
-    "revision": "34c1ff1f9770da10f190",
-    "url": "/bluewhale/js/chunk-8dec1d48.18fe80ba.js"
-  },
-  {
     "revision": "82a0b296c6a38bc68d83",
     "url": "/bluewhale/js/chunk-c66dfe38.d01cdef2.js"
+  },
+  {
+    "revision": "9699d6a4c35a71b87404",
+    "url": "/bluewhale/js/chunk-eed9da86.5efc02f8.js"
   },
   {
     "revision": "0abe04d7827e078ebbee",
