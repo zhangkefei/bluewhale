@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e0350994b76d0c1a516",
+    "revision": "5621ce1e7913124b1d50",
     "url": "/bluewhale/css/chunk-2d48966c.b641f57d.css"
   },
   {
-    "revision": "82a0b296c6a38bc68d83",
-    "url": "/bluewhale/css/chunk-c66dfe38.a24c9cb0.css"
+    "revision": "2f812491f45b29e3d975",
+    "url": "/bluewhale/css/chunk-69f465a4.a24c9cb0.css"
   },
   {
-    "revision": "9699d6a4c35a71b87404",
-    "url": "/bluewhale/css/chunk-eed9da86.6db63602.css"
+    "revision": "3c94bf0f280f4011bd97",
+    "url": "/bluewhale/css/chunk-d435fe8a.616ee8e6.css"
   },
   {
     "revision": "0abe04d7827e078ebbee",
@@ -32,36 +32,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bluewhale/img/world.svg"
   },
   {
-    "revision": "8fd3ee48152b44031c68353f30251eb8",
+    "revision": "58fa0536c68c4d418416fc122b8bb792",
     "url": "/bluewhale/index.html"
   },
   {
-    "revision": "29b356b96ab6e80cb976",
-    "url": "/bluewhale/js/app.58ec0b68.js"
+    "revision": "90521eec8be2b8406c54",
+    "url": "/bluewhale/js/app.eb2a439d.js"
   },
   {
-    "revision": "2985c0a58e4d0c3b7430",
-    "url": "/bluewhale/js/chunk-2d0b2795.50d92f5e.js"
+    "revision": "3343b927c261283fbc7a",
+    "url": "/bluewhale/js/chunk-2d0b2795.f931962c.js"
   },
   {
-    "revision": "b06ad2649179648929e1",
-    "url": "/bluewhale/js/chunk-2d0ceb84.50d2ad04.js"
+    "revision": "a914f14e274a2b3e8ec1",
+    "url": "/bluewhale/js/chunk-2d0ceb84.01c61baa.js"
   },
   {
-    "revision": "53445760b1b6f2fe87a9",
-    "url": "/bluewhale/js/chunk-2d0de3a1.53c39c8c.js"
+    "revision": "597c94c32266ccdb3e43",
+    "url": "/bluewhale/js/chunk-2d0de3a1.8af91b7a.js"
   },
   {
-    "revision": "0e0350994b76d0c1a516",
-    "url": "/bluewhale/js/chunk-2d48966c.c0408056.js"
+    "revision": "5621ce1e7913124b1d50",
+    "url": "/bluewhale/js/chunk-2d48966c.23ec61a6.js"
   },
   {
-    "revision": "82a0b296c6a38bc68d83",
-    "url": "/bluewhale/js/chunk-c66dfe38.d01cdef2.js"
+    "revision": "2f812491f45b29e3d975",
+    "url": "/bluewhale/js/chunk-69f465a4.1c900362.js"
   },
   {
-    "revision": "9699d6a4c35a71b87404",
-    "url": "/bluewhale/js/chunk-eed9da86.5efc02f8.js"
+    "revision": "3c94bf0f280f4011bd97",
+    "url": "/bluewhale/js/chunk-d435fe8a.0de374b9.js"
   },
   {
     "revision": "0abe04d7827e078ebbee",
