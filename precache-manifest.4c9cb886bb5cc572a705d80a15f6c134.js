@@ -16,10 +16,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bluewhale/css/chunk-vendors.e6002d1a.css"
   },
   {
-    "revision": "f6dc001b35d95eb760ecc44c6fcbbfcb",
-    "url": "/bluewhale/data/filter/bluewhale/2021-09-20.json"
-  },
-  {
     "revision": "1b35297ef0472009760fb3f0e41fdeee",
     "url": "/bluewhale/favicon.png"
   },
