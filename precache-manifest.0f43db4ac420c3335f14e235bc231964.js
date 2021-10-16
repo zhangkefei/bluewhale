@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbba406b0d7894942761",
-    "url": "/bluewhale/css/chunk-2f870ca5.7875a099.css"
+    "revision": "6d72a749cb03c451c427",
+    "url": "/bluewhale/css/chunk-2b4a23f1.f051049f.css"
   },
   {
-    "revision": "7e1fa93975cc6d3efa74",
-    "url": "/bluewhale/css/chunk-60bb6bde.5614c757.css"
+    "revision": "dbba406b0d7894942761",
+    "url": "/bluewhale/css/chunk-2f870ca5.7875a099.css"
   },
   {
     "revision": "08e440c133a50353f381",
@@ -60,12 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bluewhale/img/world2.svg"
   },
   {
-    "revision": "e45cdc8c05fd723613deb92ee54ceaa1",
+    "revision": "c4daf9bc1a64c79c111b523485d7778f",
     "url": "/bluewhale/index.html"
   },
   {
-    "revision": "adc9d0b85c0981e39e16",
-    "url": "/bluewhale/js/app.690c8a2d.js"
+    "revision": "9dc264f00cd499b8285e",
+    "url": "/bluewhale/js/app.a373bdea.js"
+  },
+  {
+    "revision": "6d72a749cb03c451c427",
+    "url": "/bluewhale/js/chunk-2b4a23f1.d08d11cc.js"
   },
   {
     "revision": "3343b927c261283fbc7a",
@@ -86,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dbba406b0d7894942761",
     "url": "/bluewhale/js/chunk-2f870ca5.beeb700b.js"
-  },
-  {
-    "revision": "7e1fa93975cc6d3efa74",
-    "url": "/bluewhale/js/chunk-60bb6bde.dbe01d1c.js"
   },
   {
     "revision": "08e440c133a50353f381",
