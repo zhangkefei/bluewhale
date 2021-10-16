@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bluewhale/precache-manifest.0f43db4ac420c3335f14e235bc231964.js"
+  "/bluewhale/precache-manifest.bb7ab4957817f510227f8e77408308f7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bluewhale"});
