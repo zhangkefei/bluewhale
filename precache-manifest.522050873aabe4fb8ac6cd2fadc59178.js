@@ -1,22 +1,22 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8b22b1baaefc64ac541",
+    "revision": "c7fc2abfd3ca60add1fa",
     "url": "/bluewhale/css/chunk-2f870ca5.7875a099.css"
   },
   {
-    "revision": "bc11034a64fa4e8ea4a5",
-    "url": "/bluewhale/css/chunk-362cf0b6.098f2f9f.css"
+    "revision": "4f90ff8e0d7613b54c75",
+    "url": "/bluewhale/css/chunk-53f9e70c.885acfd8.css"
   },
   {
-    "revision": "8055368b45893b151548",
-    "url": "/bluewhale/css/chunk-6710c506.6689540a.css"
-  },
-  {
-    "revision": "772310f9f876840d80b7",
+    "revision": "0e1306ddcb0794a956ac",
     "url": "/bluewhale/css/chunk-7f98f63d.1049aaa9.css"
   },
   {
-    "revision": "7251b9e564c0e52d8005",
+    "revision": "e61ad98cc06720f76a97",
+    "url": "/bluewhale/css/chunk-85a87082.89e1f73e.css"
+  },
+  {
+    "revision": "814ea7583aa2ae952364",
     "url": "/bluewhale/css/chunk-f0a27b4a.8276d54b.css"
   },
   {
@@ -60,48 +60,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bluewhale/img/world2.svg"
   },
   {
-    "revision": "c33b1d4366d7804b55151b68bf1a1b3f",
+    "revision": "43e0c6f60f48ea3e853565cae8d603f5",
     "url": "/bluewhale/index.html"
   },
   {
-    "revision": "d4b22f1fd5791750b4e0",
-    "url": "/bluewhale/js/app.fb1aee3c.js"
+    "revision": "7ddc57266186487ab5e9",
+    "url": "/bluewhale/js/app.7fbbdf51.js"
   },
   {
-    "revision": "04b94adcd812f1a72ff7",
-    "url": "/bluewhale/js/chunk-2d0b2795.e6b8302b.js"
+    "revision": "06fd7cfa7ea65913e6b0",
+    "url": "/bluewhale/js/chunk-2d0b2795.976610fd.js"
   },
   {
-    "revision": "cb826fdff5ac60a3e2f6",
-    "url": "/bluewhale/js/chunk-2d0ceb84.a6a5bade.js"
+    "revision": "717a54ca3f8ce538e4b8",
+    "url": "/bluewhale/js/chunk-2d0ceb84.07151c08.js"
   },
   {
-    "revision": "08bf6fb03e94ddeacfee",
-    "url": "/bluewhale/js/chunk-2d0de3a1.2bd9b4dc.js"
+    "revision": "5d37725699f7a7957ae3",
+    "url": "/bluewhale/js/chunk-2d0de3a1.dabe517b.js"
   },
   {
-    "revision": "dd3ca93513c73589a8fa",
-    "url": "/bluewhale/js/chunk-2d2178d9.61d8fcad.js"
+    "revision": "383da94184a9dbbdea6a",
+    "url": "/bluewhale/js/chunk-2d2178d9.7f74e71d.js"
   },
   {
-    "revision": "a8b22b1baaefc64ac541",
-    "url": "/bluewhale/js/chunk-2f870ca5.d832c33e.js"
+    "revision": "c7fc2abfd3ca60add1fa",
+    "url": "/bluewhale/js/chunk-2f870ca5.53e707f5.js"
   },
   {
-    "revision": "bc11034a64fa4e8ea4a5",
-    "url": "/bluewhale/js/chunk-362cf0b6.b26bdaf5.js"
+    "revision": "4f90ff8e0d7613b54c75",
+    "url": "/bluewhale/js/chunk-53f9e70c.3d3db8f6.js"
   },
   {
-    "revision": "8055368b45893b151548",
-    "url": "/bluewhale/js/chunk-6710c506.4adb8e0a.js"
+    "revision": "0e1306ddcb0794a956ac",
+    "url": "/bluewhale/js/chunk-7f98f63d.6449d271.js"
   },
   {
-    "revision": "772310f9f876840d80b7",
-    "url": "/bluewhale/js/chunk-7f98f63d.431d5920.js"
+    "revision": "e61ad98cc06720f76a97",
+    "url": "/bluewhale/js/chunk-85a87082.6622d468.js"
   },
   {
-    "revision": "7251b9e564c0e52d8005",
-    "url": "/bluewhale/js/chunk-f0a27b4a.a9bab64c.js"
+    "revision": "814ea7583aa2ae952364",
+    "url": "/bluewhale/js/chunk-f0a27b4a.97dfd4a8.js"
   },
   {
     "revision": "0abe04d7827e078ebbee",
